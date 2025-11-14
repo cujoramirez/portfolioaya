@@ -76,7 +76,7 @@ Any static host works:
 ## 📧 Contact
 
 - **Email**: [ayafatimah11@gmail.com](mailto:ayafatimah11@gmail.com)
-- **LinkedIn**: [linkedin.com/in/fatimah-az-zahra](https://www.linkedin.com/in/fatimah-az-zahra)
+- **LinkedIn**: [linkedin.com/in/fatimah-az-zahra]([https://www.linkedin.com/in/fatimah-az-zahra](https://www.linkedin.com/in/fatimah-az-zahra-032956386/))
 - **Behance**: [behance.net/ayafatimah18](https://www.behance.net/ayafatimah18)
 - **Phone**: +62 895333333689
 
