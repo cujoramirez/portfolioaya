@@ -36,7 +36,7 @@ export const Footer = () => {
           <Box sx={{ display: 'flex', gap: 1.5 }}>
             <IconButton
               component="a"
-              href="https://www.linkedin.com/in/fatimah-az-zahra"
+              href="https://www.linkedin.com/in/fatimah-az-zahra-032956386/"
               target="_blank"
               rel="noopener noreferrer"
               sx={{
